@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+}
+header {
+  padding: 19px 0px;
+  width: 1780px;
+  margin: 0px auto;
+}
+.logo-1 {
+  vertical-align: middle;
+}
+.logo-text {
+  display: inline-block;
+  vertical-align: middle;
+  color: #4468e2;
+  font-size: 20px;
+}
+.nav-list {
+  display: inline-block;
+  margin-left: 493px;
+  color: #1c4961;
+  font-size: 24px;
+}
+.list-title {
+  display: inline-block;
+  margin-right: 74px;
+}
+.connect {
+  font-size: 19px;
+  color: #ffffff;
+  padding: 6px 18px;
+  background-color: #4468e2;
+  border-radius: 17px;
+  margin-left: 355px;
+}
+.sea {
+  width: 1780px;
+  height: 608px;
+  margin: 22px auto 178px auto;
+}
+
+.card-1 {
+  display: inline-block;
+  width: 369px;
+  height: 293px;
+  background-color: #ffffff;
+  padding: 29px 50px 34px 26px;
+  margin-right: 73px;
+}
+.img-price {
+  background-color: #ebf0fe;
+}
+.best-price {
+  font-size: 24px;
+  color: #0f0f0f;
+  margin: 15px auto 23px auto;
+}
+.text-1 {
+  color: #0f0f0f;
+  font-size: 20px;
+}
+
+.recom-section {
+  width: 1780px;
+  margin: 65px auto 0px auto;
+}
+.rec-title {
+  text-align: center;
+  font-size: 40px;
+  color: #000000;
+  margin-bottom: 193px;
+}
+.des-card {
+  width: 552px;
+  height: 398px;
+  display: inline-block;
+  margin-right: 30px;
+}
+.public-text {
+  font-size: 38px;
+  color: #163235;
+  margin-top: 18px;
+}
+.singapore-text {
+  font-size: 26px;
+  color: #163235;
+  margin-top: 15px;
+  line-height: 28px;
+}
+.price-section {
+  margin-top: 18px;
+}
+.card-price {
+  font-size: 31px;
+  display: inline-block;
+  margin-top: 18px;
+  margin-left: 309px;
+}
+.kms {
+  height: 26px;
+  font-size: 22px;
+  color: #163235;
+  margin-top: 16px;
+  display: inline-block;
+}
+.nith-trip {
+  height: 26px;
+  font-size: 22px;
+  color: #163235;
+
+  margin-top: 7px;
+  margin-left: 290px;
+}
+.div-fin {
+  width: 1786px;
+  height: 178px;
+  margin: 178px auto 65px auto;
+  padding: 66px 29px 67px 41px;
+  background-color: #e1e8f8;
+  border-radius: 18px;
+}
+.fin {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 24px;
+  color: #000000;
+  margin-right: 222px;
+}
+.fin-div {
+  margin-left: 222px;
+}
